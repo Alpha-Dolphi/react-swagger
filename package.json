@@ -1,9 +1,8 @@
 {
-    "name": "react-swagger",
+    "name": "react-swagger-x",
     "version": "1.0.0",
     "main": "src/index.jsx",
     "dependencies": {
         "react": "^16.8.3"
     }
-  }
-  
+}
